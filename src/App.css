@@ -1,0 +1,47 @@
+body{
+    background-color: #f5f6f8;
+
+}
+
+.icon{
+    max-width: 70px;
+    max-height: 70px;
+}
+.bio-image{
+    max-width: 240px;
+}
+
+.contact-info{
+    font-size: 14px;
+    font-weight: 100;
+}
+.intro{
+    font-size: 20px;
+    font-weight: 500;
+}
+#about-me, #contact-me{
+    background-color: darkgray;
+    color: white;
+    padding: 30px;
+}
+
+.project{
+    position: relative;
+    max-width: 350px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+footer{
+    background-color:gray;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    line-height: 60px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    margin-top: -50px;
+}
